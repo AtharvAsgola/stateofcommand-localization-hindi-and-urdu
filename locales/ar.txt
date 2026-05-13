@@ -253,9 +253,9 @@ editor.mode.roads=الطرق
 editor.mode.buildings=المباني
 editor.mode.units=الوحدات
 editor.mode.nations=الدول
-editor.status.modified= [مُعدل]
-editor.status.dropper_active= | القطارة نشطة
-editor.status.add_vertex= | إضافة رأس
+editor.status.modified=[مُعدل]
+editor.status.dropper_active=| القطارة نشطة
+editor.status.add_vertex=| إضافة رأس
 editor.status.no_map=لم يتم تحميل خريطة
 
 # Editor| Help Overlay

@@ -267,9 +267,9 @@ editor.mode.roads=Carreteras
 editor.mode.buildings=Edificios
 editor.mode.units=Unidades
 editor.mode.nations=Naciones
-editor.status.modified= [MODIFICADO]
-editor.status.dropper_active= | CUENTAGOTAS ACTIVADO
-editor.status.add_vertex= | AÑADIR VÉRTICE
+editor.status.modified=[MODIFICADO]
+editor.status.dropper_active=| CUENTAGOTAS ACTIVADO
+editor.status.add_vertex=| AÑADIR VÉRTICE
 editor.status.no_map=Ningún mapa cargado
 
 # Editor| Help Overlay

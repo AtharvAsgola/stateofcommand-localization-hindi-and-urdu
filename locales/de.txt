@@ -253,9 +253,9 @@ editor.mode.roads=Straßen
 editor.mode.buildings=Gebäude
 editor.mode.units=Einheiten
 editor.mode.nations=Nationen
-editor.status.modified= [GEÄNDERT]
-editor.status.dropper_active= | PIPETTE AKTIV
-editor.status.add_vertex= | ECKPUNKT HINZUFÜGEN
+editor.status.modified=[GEÄNDERT]
+editor.status.dropper_active=| PIPETTE AKTIV
+editor.status.add_vertex=| ECKPUNKT HINZUFÜGEN
 editor.status.no_map=Keine Karte geladen
 
 # Editor| Help Overlay

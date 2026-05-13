@@ -253,9 +253,9 @@ editor.mode.roads=Дороги
 editor.mode.buildings=Здания
 editor.mode.units=Юниты
 editor.mode.nations=Нации
-editor.status.modified= [ИЗМЕНЕНО]
-editor.status.dropper_active= | ПИПЕТКА АКТИВНА
-editor.status.add_vertex= | ДОБАВИТЬ ВЕРШИНУ
+editor.status.modified=[ИЗМЕНЕНО]
+editor.status.dropper_active=| ПИПЕТКА АКТИВНА
+editor.status.add_vertex=| ДОБАВИТЬ ВЕРШИНУ
 editor.status.no_map=Карта не загружена
 
 # Editor| Help Overlay
